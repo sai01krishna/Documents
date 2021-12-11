@@ -1,0 +1,6 @@
+*.txt
+#!tempfile[0-9].txt
+.idea/
+*.zip
+*.gz
+log/*.log
